@@ -10,6 +10,10 @@ Two models are available:
 For a detailed explanation of the mathematical modeling, system architecture, control logic, and simulation methodology, please refer to the attached Technical Report: **`Simulink_Powertrain_Report_public.pdf`**.
 
 ## License
+This material is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share, study, and
+adapt the material for educational and Formula Student purposes, provided you give appropriate
+credit and do not use the material for commercial purposes.
 
 ## Getting Started
 
