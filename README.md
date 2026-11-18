@@ -26,5 +26,5 @@ For a detailed explanation of the mathematical modeling, system architecture, co
 6. Accelerator/Rapid accelerator mode may be used
 
 ## Example Simulation
-The parameters of the simulations illustrated in the report testing sections are available as an example in **`Example_parameters.m`**.
+The parameters of the simulations illustrated in the report testing sections are available as an example in **`Example_parameters.m`**. This script can be used with both the complete and simplified model.
 **`Example_torque_reference.mat`** contains torque reference values for a simulation of about 17 seconds, make sure that this file is in the same folder before running the script
