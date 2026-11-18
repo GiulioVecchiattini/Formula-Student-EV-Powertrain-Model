@@ -22,7 +22,7 @@ credit and do not use the material for commercial purposes.
 - Simscape Electrical and Simscape Mechanical toolbox
 
 ### How to run the simulation
-1. Download this repository and set it as MATLAB current folder (make sure that every file is in the same folder, including **`.slx`** file)
+1. Download this repository and set it as MATLAB current folder (make sure that every file is in the same folder, including **`.slxp`** file)
 2. Run an initialization script to set every parameter required
 3. Open the desired **`.slx`** file
 4. Log the desired output data or uncomment the scope
