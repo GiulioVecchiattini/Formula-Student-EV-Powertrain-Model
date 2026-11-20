@@ -9,7 +9,7 @@ Two models are available:
 
 For a detailed explanation of the mathematical modeling, system architecture, control logic, and simulation methodology, please refer to the attached Technical Report: **`Simulink_Powertrain_Report_public.pdf`**.
 
-*This is an independent model developed strictly from publicly available datasheets and is not affiliated with or endorsed by AMK Motion
+<sub>*This is an independent model developed strictly from publicly available datasheets and is not affiliated with or endorsed by AMK Motion
 
 ## License
 This material is licensed under a Creative Commons Attribution-
