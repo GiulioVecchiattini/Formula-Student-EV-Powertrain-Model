@@ -1,13 +1,15 @@
 # Formula Student EV Powertrain Model on MATLAB-Simulink
 
 This repository contains a Simulink powertrain model and control architecture developed in MATLAB-Simulink R2025b for a Formula Student electric vehicle. 
-The control logic is inspired by the **AMK Motion** drive system, but it may be used for different FS solutions.
+The control logic is inspired by the **AMK Motion*** drive system, but it may be used for different FS solutions.
 
 Two models are available:
 1. **`FS_PWT_Full_Assembly.slx`**: complete model with control algorithm, inverter and motor.
 2. **`FS_PWT_Control_and_Motor.slx`**: faster model with no inverter.
 
 For a detailed explanation of the mathematical modeling, system architecture, control logic, and simulation methodology, please refer to the attached Technical Report: **`Simulink_Powertrain_Report_public.pdf`**.
+
+*This is an independent model developed strictly from publicly available datasheets and is not affiliated with or endorsed by AMK Motion
 
 ## License
 This material is licensed under a Creative Commons Attribution-
